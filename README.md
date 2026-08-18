@@ -203,12 +203,6 @@ as a configuration template, while the actual:
 application.properties
 remains local.
 
-## 📡 API Documentation
-The application provides RESTful APIs for managing products, users, and orders.
-
-### Base URL
-```text
-http://localhost:8080
 
 ## 📡 API Documentation
 The application provides RESTful APIs for managing products and creating customer orders.
